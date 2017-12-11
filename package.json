@@ -1,0 +1,26 @@
+{
+  "name": "suman-schemas",
+  "version": "0.0.1001",
+  "description": "Stores JSON schemas on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/suman-schemas.git"
+  },
+  "keywords": [
+    "suman",
+    "testing",
+    "json",
+    "schemas",
+    "schema"
+  ],
+  "author": "Olegzandr VD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumanjs/suman-schemas/issues"
+  },
+  "homepage": "https://github.com/sumanjs/suman-schemas#readme"
+}
